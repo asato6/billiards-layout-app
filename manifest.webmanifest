@@ -1,0 +1,1 @@
+{"name":"ビリヤード配置図","short_name":"配置図","description":"ポケットビリヤードの配置図作成","start_url":"./","scope":"./","display":"standalone","background_color":"#f7f7f4","theme_color":"#164e3b","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
